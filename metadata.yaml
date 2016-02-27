@@ -1,0 +1,39 @@
+_repo: New-Collected-Rhymes_1746
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Webpage containing new collected rhymes / by Andrew Lang.
+gutenberg_issued: '1999-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1746'
+language: en
+publication_note: Longmans, Green and Co., 1905
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+tableOfContents: In Augustinum Dobson -- How the Maid Marched from Blois -- Lone Places
+  of the Deer -- An Old Song -- Jacobite "Auld Lang Syne" -- The Prince's Birthday
+  -- The Tenth of June, 1715 -- White Rose Day -- Red and White Roses -- The Bonnie
+  Banks o' Loch Lomond -- Kenmure -- Culloden -- The Last of the Leal -- Jeanne d'Arc
+  -- To Helen -- Ballade of Dead Cricketers -- Brahma -- Gainsborough Ghosts -- A
+  Remonstrance with the Fair -- Rhyme of Rhymes -- Rhyme of Oxford Cockney Rhymes
+  -- Rococo -- The Food of Fiction -- "A Highly Valuable Chain of Thoughts" -- Matrimony
+  -- Piscatori Piscator -- The Contented Angler -- Off my Game -- The Property of
+  a Gentleman who has Given up Collecting -- The Ballade of the Subconscious Self
+  -- Ballade of the Optimist -- Zimbabwe -- Love's Cryptogram -- Tusitala -- Disdainful
+  Diaphenia -- Tall Salmacis -- What Francesco said of the Jubilee -- The Poet and
+  the Jubilee -- On any Beach -- Ode of Jubilee -- Jubilee before Revolution -- French
+  Peasant Songs -- The Young Ruthven -- The Queen o' Spain and the Bauld McLean --
+  Keith of Craigentolly.
+title: New Collected Rhymes
+url: http://www.gutenberg.org/ebooks/1746
