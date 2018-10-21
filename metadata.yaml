@@ -1,5 +1,5 @@
 _repo: New-Collected-Rhymes_1746
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'English poetry'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: In Augustinum Dobson -- How the Maid Marched from Blois -- Lone Places
   of the Deer -- An Old Song -- Jacobite "Auld Lang Syne" -- The Prince's Birthday
   -- The Tenth of June, 1715 -- White Rose Day -- Red and White Roses -- The Bonnie
